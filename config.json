@@ -1,0 +1,7 @@
+{
+    "ImageBase":{
+        "Path":"./images",
+        "Index":"./data/index",
+        "Meta":"./data/meta"
+    }
+}
